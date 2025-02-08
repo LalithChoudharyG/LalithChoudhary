@@ -4,7 +4,13 @@
 
 ### 👨‍💻 About Me  
 Web developer with 2+ years of experience in front-end development. Passionate about crafting responsive, user-friendly web applications.  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalithchoudhary)  [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/LalithChoudharyG)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalithchoudhary)  [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/LalithChoudharyG)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-blue?style=flat&logo=netlify)](https://lalithchoudharyporfolio.netlify.app/)
+
+
+
+
+
+
 
 ## 🚀 Tech Stack  
 
@@ -19,3 +25,5 @@ Web developer with 2+ years of experience in front-end development. Passionate a
 ## Get in touch
 <!--- - Personal Website: [lalithchoudhary.com](https://www.lalithchoudhary.com) --->
 📌 [LinkedIn](https://www.linkedin.com/in/lalithchoudhary)
+📌 [Website](https://lalithchoudharyporfolio.netlify.app/)
+
